@@ -47,6 +47,12 @@ function todoList() {
   });
 }
 
+
+
+
+
+
+
 todoList();
 document.querySelector('#taskForm').addEventListener('submit', (event) => {
   event.preventDefault();
